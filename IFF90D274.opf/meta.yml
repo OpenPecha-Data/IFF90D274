@@ -8,6 +8,10 @@ parser: null
 source_metadata:
   title: 'Śāntideva: Bodhicaryāvatāra'
   language: zh
+  base:
+    E38A:
+      base_file: E38A.txt
+      order: 1
 statistics: {}
 quality: {}
 copyright:
